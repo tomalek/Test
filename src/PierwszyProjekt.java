@@ -5,6 +5,7 @@ public class PierwszyProjekt {
 		// TODO Auto-generated method stub
 
 		System.out.println("siema");
+		System.out.println("asd");
 	}
 
 }
